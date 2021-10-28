@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dinnerizer</string>
+    <string name="dessert">Dessert</string>
+    <string name="side_dish1">Side Dish</string>
+    <string name="side_dish2">Side Dish</string>
+    <string name="entree">Entree</string>
+    <string name="spin">Spin</string>
+</resources>
